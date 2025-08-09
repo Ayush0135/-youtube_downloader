@@ -1,0 +1,11 @@
+gradio
+yt-dlp
+pydub
+google-cloud-storage
+google-cloud-speech
+google-genai
+pytube
+moviepy
+torch
+transformers
+python-dotenv
